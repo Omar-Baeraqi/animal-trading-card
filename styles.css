@@ -1,0 +1,29 @@
+/* add your CSS here */
+.card_border{
+    width: 300px;
+    border: 1px solid lightgray;
+    border-radius: 25px;
+    box-shadow: 10px 10px lightgray;  
+    padding: 10px;
+}
+
+.info_border{
+    border: 1px solid lightgray;
+    border-radius: 25px;
+    padding: 0px 0px 10px 10px;
+    margin: 10px 0px 2px 0px;
+}
+
+ul{
+    list-style: none;
+    padding: 0;
+}
+
+img{
+    border-radius: 25px;
+    padding: 0px 0px 2px 0px;
+}
+
+h3{
+    padding: 0px 0px 2px 0px;
+}
